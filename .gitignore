@@ -1,0 +1,4 @@
+*.txt
+node_modules
+package.js
+package-lock.js
